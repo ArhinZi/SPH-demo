@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b398304e5a48cdd4d929c33e2aa02e27
+timeCreated: 1483925054
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Tool_Panel: {fileID: 144350, guid: a278782a93243504e8dfbfd3b138d857, type: 2}
+  - nCursor: {fileID: 128908, guid: ab0190c781eb9334fbcd27fbb4465f35, type: 2}
+  - Prefab_wall: {fileID: 130758, guid: be1339105a641304496ba59d4aca1162, type: 2}
+  - Prefab_water: {fileID: 138010, guid: 01631016d212efa489046ddd6aa02427, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

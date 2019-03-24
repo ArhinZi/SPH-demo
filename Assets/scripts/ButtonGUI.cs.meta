@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 09eaee9955aa7e941a1c27abf195b4f4
+timeCreated: 1484589753
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - nMain: {fileID: 11473526, guid: ab0190c781eb9334fbcd27fbb4465f35, type: 2}
+  - SelectCursore_act: {fileID: 2800000, guid: 6ee71fbe9f05404459320a7c49eb3127, type: 3}
+  - SelectCursore_nact: {fileID: 2800000, guid: a67822a48b2348048ab33fd76e8ba68e,
+      type: 3}
+  - DelCursore_act: {fileID: 2800000, guid: a67822a48b2348048ab33fd76e8ba68e, type: 3}
+  - DelCursore_nact: {fileID: 2800000, guid: 46140b7a43defc2458a6d0870bc77cc1, type: 3}
+  - DragCursore_act: {fileID: 2800000, guid: 85375308c150c524491c1071a519ad07, type: 3}
+  - DragCursore_nact: {fileID: 2800000, guid: 721ce98fb6f1ad146a840f7e968f0cfe, type: 3}
+  - WallCursore: {fileID: 2800000, guid: ff7f65f23f7a2944c8baf3c21fcf77a7, type: 3}
+  - WaterCursore: {fileID: 2800000, guid: 2140a723e11ba5548a33a64c3c16f21c, type: 3}
+  - B_Select: {fileID: 2800000, guid: 9ff13bcd0ca08984da0f58f79e7f0169, type: 3}
+  - B_Del: {fileID: 2800000, guid: af1bc72825b15ff419d64cf5474854cb, type: 3}
+  - B_Drag: {fileID: 2800000, guid: be2a0254ee617384ab675536b3477c8e, type: 3}
+  - B_Wall: {fileID: 2800000, guid: 37920451b4fc00844b595f9c30b97c34, type: 3}
+  - B_Water: {fileID: 2800000, guid: 9910d417c5db44547b5f4f2183f6bca2, type: 3}
+  - Cursor_tex: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

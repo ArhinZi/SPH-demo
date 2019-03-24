@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2127311d50e537945b1d75ccf4545a2f
+timeCreated: 1484507397
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - b_select: {fileID: 1436278198671644, guid: 0edb9ba2d1c53354190036d55e4c2be1, type: 2}
+  - b_drag: {fileID: 1090246287954466, guid: edc6e87ce16920641a39d6040ee2b35d, type: 2}
+  - b_del: {fileID: 1163224637076024, guid: 33138a858a33a9841bc57a2d2dbd0f34, type: 2}
+  - b_wall: {fileID: 1691808613036744, guid: c153f69494f19fe46a2c5cb9981953a5, type: 2}
+  - b_water: {fileID: 1031242206920870, guid: ec1dcfe5a18453c4eb27820d03c3ee53, type: 2}
+  - b_clean: {fileID: 1808141791835718, guid: f23083bcd05e00146bd5ea286036afd2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
